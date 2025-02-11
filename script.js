@@ -30,3 +30,4 @@ for (const row of rows) {
 }
 
 console.log(result);
+// adding a comment to test git commits
